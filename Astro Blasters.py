@@ -1,6 +1,4 @@
-#Simple Turtle Graphics Game
-#By @TokyoEdTech
-#Python 3.x
+
 import os
 import random
 from tkinter import messagebox
